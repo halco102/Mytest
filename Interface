@@ -1,0 +1,12 @@
+import java.util.*;
+public interface Provjera {
+
+	public static int provjera (int a[][]) {
+		return 0;
+	  
+		}
+public int [][] provjera_niza(int a, int b);
+	
+	
+}
+
